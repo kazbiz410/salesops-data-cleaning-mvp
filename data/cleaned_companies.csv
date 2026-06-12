@@ -1,0 +1,9 @@
+company_name,department,owner,normalized_company_name
+株式会社ABC,営業部,田中,株式会社abc
+(株)ABC,営業部,田中,株式会社abc
+ＡＢＣ株式会社,マーケティング部,佐藤,株式会社abc
+abc co.,sales,John,abc co
+ABC Co.,Sales,Mike,abc co
+株式会社DEF,経理部,鈴木,株式会社def
+(株)ＤＥＦ,経理部,鈴木,株式会社def
+DEF Inc,Finance,Suzuki,def inc
